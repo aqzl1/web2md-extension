@@ -115,9 +115,7 @@ npm run build
 
 ### 安装方式：
 
-1. 打开谷歌浏览器，地址栏中输入
-
-   [扩展程序]: chrome://extensions/
+1. 打开谷歌浏览器，地址栏中输入 `chrome://extensions/`
 
 2. 打开右上角的 **开发者模式**
 
